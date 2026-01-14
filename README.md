@@ -72,4 +72,11 @@ export default defineConfig([
     },
   },
 ])
+## 📸 Screenshots
+### Login
+![Login](docs/login.png)
+
+### Dashboard
+![Dashboard](docs/dashboard.png)
+
 ```
